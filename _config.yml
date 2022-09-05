@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "taeo3458"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images "
   bio              : "Just Do IT"
-  location         : "Kor"
-  email            :
+  location         : "Korea"
+  email            : "taeo3458@gmail.com"
   links:
     - label: "Email"
       icon: "taeo3458@gmail.com"
